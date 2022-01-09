@@ -1,4 +1,4 @@
-# Appliances-Energy-Prediction-
+# Appliances Energy Prediction
 The understanding of the appliances energy use in buildings has been the subject of numerous research studies, since appliances represent a significant portion (between 20 and 30% ) of the electrical energy demand. The dataset contains features such as: Temperature and Relative Humidity of different regions of the House, indoor and outdoor temperatures, weather features such as Windspeed, visibility, Pressure, our target variable appliance and Time stamp of every 10 mins.
 
 The approach we followed:
